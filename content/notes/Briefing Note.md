@@ -1,8 +1,8 @@
 ---
 title: "Briefing Note"
 tags: 
-- Professional Review
-- Communication Task
+- Professional-Review
+- Communication-Task
 ---
 # Briefing Note
 
