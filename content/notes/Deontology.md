@@ -1,0 +1,16 @@
+---
+title: "Deontology"
+tags: 
+- 
+---
+# Deontology
+
+
+
+
+
+
+
+
+
+
